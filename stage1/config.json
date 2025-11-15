@@ -1,0 +1,8 @@
+{
+  "package_name": "demo-package",
+  "repo": "./test_repo",
+  "test_repo_mode": "local-file",
+  "output_image": "graph.png",
+  "max_depth": 2,
+  "filter_substring": ""
+}

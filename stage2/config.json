@@ -1,0 +1,5 @@
+{
+  "package_name": "demo-artifact",
+  "repo": "./test_repo_maven",
+  "test_repo_mode": "local-file"
+}

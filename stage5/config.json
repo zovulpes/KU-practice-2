@@ -1,0 +1,5 @@
+{
+  "test_repo_mode": "file",
+  "test_graph_file": "./test_graph_acyclic.txt",
+  "output_image": "graph"
+}

@@ -1,0 +1,8 @@
+{
+  "package_name": "A",
+  "test_repo_mode": "file",
+  "test_graph_file": "./test_graph_cycles.txt",
+  "max_depth": 10,
+  "filter_substring": "",
+  "output_image": "graph_cycles.png"
+}
